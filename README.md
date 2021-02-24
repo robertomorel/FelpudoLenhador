@@ -10,8 +10,6 @@ This is a simple 2D game, which intents to destroy barrels only if it hasn't a h
 
 Created to run on a desktop.
 
-[Click to be redirected to the base game!](https://github.com/robertomorel/AventuraFelpudo)
-
 ## Features
 - 2D moviments 
 - Time counting
